@@ -17,6 +17,6 @@ Luau includes the following data types:
 - [nil](data-types/nil.md) represents non-existence or nothingness.
 - [Boolean](data-types/booleans.md), or `bool`, have a value of either `false` or `true`.
 - [Numbers](data-types/numbers.md), or `double`, repesent double-precision (64-bit) floating-point numbers.
-- Strings
+- [Strings](data-types/strings.md), are sequences of characters, such as letters, numbers, and symbols.
 - Tables
 - Enums
