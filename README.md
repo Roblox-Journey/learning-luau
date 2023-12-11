@@ -19,4 +19,4 @@ Luau includes the following data types:
 - [Numbers](data-types/numbers.md), or `double`, repesent double-precision (64-bit) floating-point numbers.
 - [Strings](data-types/strings.md), are sequences of characters, such as letters, numbers, and symbols.
 - [Tables](data-types/tables.md), are `arrays` or `dictionaries` of any value except `nil`.
-- Enums
+- [Enums](data-types/enums.md), are fixed lists of items.
